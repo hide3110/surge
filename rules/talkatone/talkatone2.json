@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "vm.talkatone.com",
+        "tenor.com",
+        "tktn.be",
+        "tktn.at"
+      ]
+    }
+  ]
+}
